@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Arulmouzhi Ezhilarasan
 
-- 👯 I've contributed on [Stackoverflow](https://stackoverflow.com/users/7905444/arulmouzhi) , [TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
+- 👯 I've contributed on [Stackoverflow](https://stackoverflow.com/users/7905444/arulmouzhi) , [TechNet Wiki](https://social.technet.microsoft.com/profile/arulmouzhi/)
 
 - 💬 Ask me about Cloud ☁️,Azure,Database,SQL
 
