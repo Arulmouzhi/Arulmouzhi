@@ -1,11 +1,10 @@
-### Hi there, I'm Arulmouzhi 👋
+### Hi All, myself Arulmouzhi 👋
 
-![](https://img.shields.io/badge/Microsoft-MCT-blue?style=for-the-badge&logo=appveyor)
-[![HitCount](http://hits.dwyl.com/arulmouzhi/arulmouzhi.svg)](http://hits.dwyl.com/arulmouzhi/arulmouzhi)
+![](https://img.shields.io/badge/Microsoft-MCT-blue)
 
 ## I'm a Developer, Blogger and Cloud Learner!
 
-- 👯 I've contributed on [Microsoft TechNet Wiki](https://social.technet.microsoft.com/profile/arulmouzhi/), [Stackoverflow](https://stackoverflow.com/users/7905444/arulmouzhi)
+- 👯 I've contributed on [Microsoft TechNet Wiki](https://social.technet.microsoft.com/profile/arulmouzhi/), [Stack Overflow](https://stackoverflow.com/users/7905444/arulmouzhi)
 
 - 💬 Ask me about Azure Cloud ☁️, Database Development, SQL Server
 
@@ -15,9 +14,7 @@
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: I love to play Cricket :cricket_game:
-
-<br />
+- ⚡ Fun fact: I love to play Cricket 🏏
 
 ### Languages and Tools:
 
@@ -28,18 +25,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="arulmouzhi.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />][twitter]
-[<img align="left" alt="Arulmouzhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
 
@@ -52,6 +37,14 @@
 - [Super Trim Function in SQL Server](https://arulmouzhi.wordpress.com/2019/12/16/super-trim-function-and-enhanced-trim-function-in-sql-server/)
 - [To View Structure of Temp Table](https://arulmouzhi.wordpress.com/2019/12/15/to-view-structure-of-temp-table/)
 <!-- BLOG-POST-LIST:END -->
+
+### Connect with me:
+
+[<img align="left" alt="arulmouzhi.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Arulmouzhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ---
 
