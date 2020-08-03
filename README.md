@@ -29,14 +29,14 @@
 <br />
 
 ### 📕 Popular Articles/Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!--  BLOG-POST-LIST:START  -->
 - [T-SQL : Finding Fill Rate of Table](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
 - [Top 20 Poor Performing Queries in SQL Server](https://arulmouzhi.wordpress.com/2020/02/02/top-20-poor-performing-queries-in-sql-server/)
 - [Import CSV and TXT Files as Tables in SQL Server](https://arulmouzhi.wordpress.com/2020/02/19/import-csv-and-txt-files-as-tables-in-sql-server/)
 - [SQL Question and Answer #2](https://arulmouzhi.wordpress.com/2020/02/20/sql-question-and-answer-2/)
 - [Super Trim Function in SQL Server](https://arulmouzhi.wordpress.com/2019/12/16/super-trim-function-and-enhanced-trim-function-in-sql-server/)
 - [To View Structure of Temp Table](https://arulmouzhi.wordpress.com/2019/12/15/to-view-structure-of-temp-table/)
-<!-- BLOG-POST-LIST:END -->
+<!--  BLOG-POST-LIST:END  -->
 
 ### Connect with me:
 
