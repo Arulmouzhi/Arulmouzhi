@@ -45,15 +45,11 @@
 - [Super Trim Function in SQL Server](https://arulmouzhi.wordpress.com/2019/12/16/super-trim-function-and-enhanced-trim-function-in-sql-server/)
 - [To View Structure of Temp Table](https://arulmouzhi.wordpress.com/2019/12/15/to-view-structure-of-temp-table/)
 <!--  BLOG-POST-LIST:END  -->
-
 <!-- ### Connect with me:  -->
-
 <!-- [<img align="left" alt="arulmouzhi.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
 <!-- [<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -->
 <!-- [<img align="left" alt="Arulmouzhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  -->
-
 <br />
-
 ---
 ### &#x1f4c8; GitHub Stats
 
