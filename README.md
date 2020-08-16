@@ -1,4 +1,10 @@
-[![Header](https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/readmeheader.jpg "Header")](https://arulmouzhi.wordpress.com/)
+[![Header](https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/readmeheaderpic.jpg "Header")](https://arulmouzhi.wordpress.com/)
+
+<p align='center'>
+<a href="https://arulmouzhi.wordpress.com/"><img height="30" src="https://user-images.githubusercontent.com/65807570/90331481-53c88d80-dfd2-11ea-8e35-cb9ab85a3115.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/arulmouzhi"><img height="30" src="https://user-images.githubusercontent.com/65807570/90331507-9722fc00-dfd2-11ea-8a08-e4b39196ef87.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arulmouzhi-ezhilarasan/"><img height="30" src="https://user-images.githubusercontent.com/65807570/90331502-82466880-dfd2-11ea-886d-71ddcce00092.png"></a>
+</p>
 
 ### Hi All, myself Arulmouzhi <img src="https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/wave.gif" width="20px">
 
@@ -30,7 +36,7 @@
 
 <br />
 
-### 📕 &#x270d; Popular Articles/Blog Posts & Writing
+### 📰 &#x270d; Popular Articles/Blog Posts & Writing
 <!--  BLOG-POST-LIST:START  -->
 - [T-SQL : Finding Fill Rate of Table](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
 - [Top 20 Poor Performing Queries in SQL Server](https://arulmouzhi.wordpress.com/2020/02/02/top-20-poor-performing-queries-in-sql-server/)
@@ -40,11 +46,11 @@
 - [To View Structure of Temp Table](https://arulmouzhi.wordpress.com/2019/12/15/to-view-structure-of-temp-table/)
 <!--  BLOG-POST-LIST:END  -->
 
-### Connect with me:
+<!-- ### Connect with me:  -->
 
-[<img align="left" alt="arulmouzhi.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arulmouzhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="arulmouzhi.wordpress.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
+<!-- [<img align="left" alt="Arulmouzhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  -->
+<!-- [<img align="left" alt="Arulmouzhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  -->
 
 <br />
 
@@ -63,6 +69,6 @@
 </a>
 
 
-[website]: https://arulmouzhi.wordpress.com/
-[twitter]: https://twitter.com/arulmouzhi
-[linkedin]: https://www.linkedin.com/in/arulmouzhi-ezhilarasan/
+<!-- [website]: https://arulmouzhi.wordpress.com/  -->
+<!-- [twitter]: https://twitter.com/arulmouzhi  -->
+<!-- [linkedin]: https://www.linkedin.com/in/arulmouzhi-ezhilarasan/  -->
