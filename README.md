@@ -1,4 +1,6 @@
-### Hi All, myself Arulmouzhi 👋
+[![Header](https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/readmeheader.jpg "Header")](https://arulmouzhi.wordpress.com/)
+
+### Hi All, myself Arulmouzhi <img src="https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/wave.gif" width="20px">
 
 ![](https://img.shields.io/badge/Microsoft-MCT-blue)
 
@@ -16,7 +18,7 @@
 
 - ⚡ Fun fact: I love to play Cricket 🏏
 
-### Languages and Tools:
+### 🔧 Technologies and Tools :
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -28,7 +30,7 @@
 
 <br />
 
-### 📕 Popular Articles/Blog Posts
+### 📕 &#x270d; Popular Articles/Blog Posts & Writing
 <!--  BLOG-POST-LIST:START  -->
 - [T-SQL : Finding Fill Rate of Table](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
 - [Top 20 Poor Performing Queries in SQL Server](https://arulmouzhi.wordpress.com/2020/02/02/top-20-poor-performing-queries-in-sql-server/)
@@ -47,8 +49,19 @@
 <br />
 
 ---
+### &#x1f4c8; GitHub Stats
 
-<img align="left" alt="Arulmouzhi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arulmouzhi&show_icons=true" />
+<a href="https://github.com/Arulmouzhi/Arulmouzhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arulmouzhi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Arulmouzhi/Arulmouzhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arulmouzhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arulmouzhi's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Arulmouzhi/SQLGifts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arulmouzhi&repo=SQLGifts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 [website]: https://arulmouzhi.wordpress.com/
 [twitter]: https://twitter.com/arulmouzhi
