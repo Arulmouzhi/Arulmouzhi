@@ -42,6 +42,7 @@
 <!--  BLOG-POST-LIST:START  -->
 - [T-SQL : Finding Fill Rate of Table](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
 - [Top 20 Poor Performing Queries in SQL Server](https://arulmouzhi.wordpress.com/2020/02/02/top-20-poor-performing-queries-in-sql-server/)
+- [Azure CLI way to Create New Azure SQL Database](https://arulmouzhi.wordpress.com/2020/10/26/azure-cli-way-to-create-new-azure-sql-database/)
 - [Import CSV and TXT Files as Tables in SQL Server](https://arulmouzhi.wordpress.com/2020/02/19/import-csv-and-txt-files-as-tables-in-sql-server/)
 - [SQL Question and Answer #2](https://arulmouzhi.wordpress.com/2020/02/20/sql-question-and-answer-2/)
 - [Super Trim Function in SQL Server](https://arulmouzhi.wordpress.com/2019/12/16/super-trim-function-and-enhanced-trim-function-in-sql-server/)
@@ -63,6 +64,9 @@
 
 <a href="https://github.com/Arulmouzhi/SQLGifts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arulmouzhi&repo=SQLGifts&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Arulmouzhi/AzureStuffs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arulmouzhi&repo=AzureStuffs&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Arulmouzhi/Arulmouzhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arulmouzhi&show_icons=true&theme=radical" />
