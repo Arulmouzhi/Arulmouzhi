@@ -14,7 +14,7 @@
 
 - 👯 I've contributed on [Microsoft TechNet Wiki](https://social.technet.microsoft.com/profile/arulmouzhi/), [Stack Overflow](https://stackoverflow.com/users/7905444/arulmouzhi)
 
-- 💬 Ask me about Azure Cloud ☁️, Database Development, SQL Server
+- 💬 Ask me about Azure Data Engineering and Solutions ☁️, Database Development, SQL Server
 
 - 💰 Accreditation : [Arulmouzhi Ezhilarasan](https://www.youracclaim.com/users/arulmouzhi-ezhilarasan/badges)
 
