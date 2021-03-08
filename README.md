@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/readmeheaderpic.jpg "Header")](https://arulmouzhi.wordpress.com/)
+[![Header](https://raw.githubusercontent.com/Arulmouzhi/Arulmouzhi/master/readmeheaderpic.png "Header")](https://arulmouzhi.wordpress.com/)
 
 <p align='center'>
 <a href="https://arulmouzhi.wordpress.com/"><img height="30" src="https://user-images.githubusercontent.com/65807570/90331481-53c88d80-dfd2-11ea-8e35-cb9ab85a3115.png"></a>&nbsp;&nbsp;
