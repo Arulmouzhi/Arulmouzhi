@@ -38,14 +38,14 @@
 
 ---
 
-### newspaper writing_hand Popular Articles/Blog Posts & Writing
+### &#x1F4F0; &#x270D; Popular Articles/Blog Posts & Writing
 <!--  BLOG-POST-LIST:START  -->
 - [T-SQL : Finding Fill Rate of Table](https://social.technet.microsoft.com/wiki/contents/articles/53888.t-sql-finding-fill-rate-of-table.aspx)
-- [Azure Batch Data Process â€“ Covid Dataset](https://arulmouzhi.wordpress.com/2021/02/12/azure-batch-data-process-covid-dataset/)
+- [Azure Batch Data Process - Covid Dataset](https://arulmouzhi.wordpress.com/2021/02/12/azure-batch-data-process-covid-dataset/)
 - [Azure CLI way to Create New Azure SQL Database](https://arulmouzhi.wordpress.com/2020/10/26/azure-cli-way-to-create-new-azure-sql-database/)
 - [Import CSV and TXT Files as Tables in SQL Server](https://arulmouzhi.wordpress.com/2020/02/19/import-csv-and-txt-files-as-tables-in-sql-server/)
 - [Bringing Folder Structure via Azure Data Factory](https://arulmouzhi.wordpress.com/2021/04/12/bringing-folder-structure-via-azure-data-factory/)
-- [Azure Resource Lock â€“ Simple 2 Steps](https://arulmouzhi.wordpress.com/2020/08/22/azure-resource-lock-simple-2-steps/)
+- [Azure Resource Lock - Simple 2 Steps](https://arulmouzhi.wordpress.com/2020/08/22/azure-resource-lock-simple-2-steps/)
 - [Lift and Shift SSIS Package in ADF](https://arulmouzhi.wordpress.com/2021/04/13/lift-and-shift-ssis-package-in-adf/)
 - [T-SQL way to ADD and EDIT Client IP Address in Azure SQL DB](https://arulmouzhi.wordpress.com/2020/11/15/t-sql-way-to-add-and-edit-client-ip-address-in-azure-sql-db/)
 - [Super Trim Function in SQL Server](https://arulmouzhi.wordpress.com/2019/12/16/super-trim-function-and-enhanced-trim-function-in-sql-server/)
