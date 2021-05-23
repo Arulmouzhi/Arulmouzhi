@@ -43,8 +43,7 @@
 <img align="left" alt="DataShares" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253882-d0774080-bbd0-11eb-8120-4a182580d85a.png" />&nbsp;&nbsp;
 <img align="left" alt="CostManagement" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253883-d10fd700-bbd0-11eb-990e-0e6f5cb7690d.png" />&nbsp;&nbsp;
 <img align="left" alt="AutomationAccounts" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253884-d2410400-bbd0-11eb-89b7-8a86cc8c74b3.png" />&nbsp;&nbsp;
-<img align="left" alt="Powershell" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253885-d2d99a80-bbd0-11eb-85c9-ff65fc714bfc.png" />
-<br>
+<img align="left" alt="Powershell" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253885-d2d99a80-bbd0-11eb-85c9-ff65fc714bfc.png" />&nbsp;&nbsp;
 <img align="left" alt="Python" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253870-c8b79c00-bbd0-11eb-8e8b-2bded36c9b49.png" />&nbsp;&nbsp;
 <img align="left" alt="PowerBI" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253871-c9503280-bbd0-11eb-9832-4846082cd307.png" />&nbsp;&nbsp;
 <img align="left" alt="git" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253872-c9e8c900-bbd0-11eb-9d0a-79ec048cb490.png" />&nbsp;&nbsp;
@@ -58,8 +57,7 @@
 <img align="left" alt="AzureSecurityCenter" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254712-804ead00-bbd5-11eb-8d64-f25e8dfc823f.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureStreamAnalytics" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254713-80e74380-bbd5-11eb-849a-e0475317418d.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureUserSubscriptions" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254715-817fda00-bbd5-11eb-931b-4b48abbf0ee9.png" />&nbsp;&nbsp;
-<img align="left" alt="vscode" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254716-817fda00-bbd5-11eb-9fe7-081dd45c862c.png" />
-<br>
+<img align="left" alt="vscode" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254716-817fda00-bbd5-11eb-9fe7-081dd45c862c.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureDevopsPipelines" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254701-7b89f900-bbd5-11eb-84b7-8d3833e10dc6.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureDevopsArtifacts" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254703-7cbb2600-bbd5-11eb-88d7-3647d0be8f61.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureDevopsRepos" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254704-7cbb2600-bbd5-11eb-803f-0c19211359c5.png" />&nbsp;&nbsp;
@@ -71,11 +69,10 @@
 <img align="left" alt="Snowflake" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256321-ca3b9100-bbdd-11eb-9887-4ed2608de359.jpg" />&nbsp;&nbsp;
 <img align="left" alt="MicrosoftOffice" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256322-ca3b9100-bbdd-11eb-9de0-fe3c5d00eab9.png" />&nbsp;&nbsp;
 <img align="left" alt="Wordpress" height="28" width="28" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />&nbsp;&nbsp;
-<img align="left" alt="AWS" height="28" width="28" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
-<img align="left" alt="Pandas" height="32" width="32" src="https://user-images.githubusercontent.com/65807570/119256318-c871cd80-bbdd-11eb-9cad-5966ecb8d948.png" />&nbsp;&nbsp;
-<img align="left" alt="PySpark" height="32" width="32" src="https://user-images.githubusercontent.com/65807570/119256319-c90a6400-bbdd-11eb-9c6e-295db8bdfb06.png" />
-<br>
-<img align="left" alt="Spark" height="32" width="32" src="https://user-images.githubusercontent.com/65807570/119253866-c6edd880-bbd0-11eb-9a3d-a5a845598de8.png" />
+<img align="left" alt="AWS" height="28" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
+<img align="left" alt="Pandas" height="28" width="36" src="https://user-images.githubusercontent.com/65807570/119256318-c871cd80-bbdd-11eb-9cad-5966ecb8d948.png" />&nbsp;&nbsp;
+<img align="left" alt="PySpark" height="28" width="36" src="https://user-images.githubusercontent.com/65807570/119256319-c90a6400-bbdd-11eb-9c6e-295db8bdfb06.png" />&nbsp;&nbsp;
+<img align="left" alt="Spark" height="28" width="36" src="https://user-images.githubusercontent.com/65807570/119253866-c6edd880-bbd0-11eb-9a3d-a5a845598de8.png" />
 
 
 <br />
