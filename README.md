@@ -30,45 +30,52 @@
 
 ### 🔧 Technologies and Tools :
 
-<img align="left" alt="Azure" width="26px" src="https://user-images.githubusercontent.com/65807570/119251408-ff3aea00-bbc3-11eb-881e-71cab203cf62.png" />&nbsp;&nbsp;
-<img align="left" alt="SQLServer" width="26px" src="https://user-images.githubusercontent.com/65807570/119251409-ffd38080-bbc3-11eb-9fbb-ef2c07af5a73.png" />&nbsp;&nbsp;
-<img align="left" alt="SQLManagedInstance" width="26px" src="https://user-images.githubusercontent.com/65807570/119251401-fc3ff980-bbc3-11eb-9cb0-7d69791080e4.png" />&nbsp;&nbsp;
-<img align="left" alt="SQLElasticPools" width="26px" src="https://user-images.githubusercontent.com/65807570/119251404-fd712680-bbc3-11eb-9912-d69c86116ed0.png" />&nbsp;&nbsp;
-<img align="left" alt="SQLDataWarehouses" width="26px" src="https://user-images.githubusercontent.com/65807570/119251405-fe09bd00-bbc3-11eb-9258-235ae6f178d4.png" />&nbsp;&nbsp;
-<img align="left" alt="Serverless" width="26px" src="https://user-images.githubusercontent.com/65807570/119251406-fea25380-bbc3-11eb-8b4d-842a84c52c55.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureSynapseAnalytics" width="26px" src="https://user-images.githubusercontent.com/65807570/119251407-ff3aea00-bbc3-11eb-8dc0-6c385ec2a982.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureDataFactory" width="26px" src="https://user-images.githubusercontent.com/65807570/119253878-ce14e680-bbd0-11eb-9294-f904a97cd223.png" />&nbsp;&nbsp;
-<img align="left" alt="DatabaseMigrationServices" width="26px" src="https://user-images.githubusercontent.com/65807570/119253879-cf461380-bbd0-11eb-892e-f256fdf766e5.png" />&nbsp;&nbsp;
-<img align="left" alt="DataCatalog" width="26px" src="https://user-images.githubusercontent.com/65807570/119253880-cfdeaa00-bbd0-11eb-8e43-c33f618e3236.png" />&nbsp;&nbsp;
-<img align="left" alt="DataShares" width="26px" src="https://user-images.githubusercontent.com/65807570/119253882-d0774080-bbd0-11eb-8120-4a182580d85a.png" />&nbsp;&nbsp;
-<img align="left" alt="CostManagement" width="26px" src="https://user-images.githubusercontent.com/65807570/119253883-d10fd700-bbd0-11eb-990e-0e6f5cb7690d.png" />&nbsp;&nbsp;
-<img align="left" alt="AutomationAccounts" width="26px" src="https://user-images.githubusercontent.com/65807570/119253884-d2410400-bbd0-11eb-89b7-8a86cc8c74b3.png" />&nbsp;&nbsp;
-<img align="left" alt="Powershell" width="26px" src="https://user-images.githubusercontent.com/65807570/119253885-d2d99a80-bbd0-11eb-85c9-ff65fc714bfc.png" />&nbsp;&nbsp;
+<img align="left" alt="Azure" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251408-ff3aea00-bbc3-11eb-881e-71cab203cf62.png" />&nbsp;&nbsp;
+<img align="left" alt="SQLServer" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251409-ffd38080-bbc3-11eb-9fbb-ef2c07af5a73.png" />&nbsp;&nbsp;
+<img align="left" alt="SQLManagedInstance" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251401-fc3ff980-bbc3-11eb-9cb0-7d69791080e4.png" />&nbsp;&nbsp;
+<img align="left" alt="SQLElasticPools" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251404-fd712680-bbc3-11eb-9912-d69c86116ed0.png" />&nbsp;&nbsp;
+<img align="left" alt="SQLDataWarehouses" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251405-fe09bd00-bbc3-11eb-9258-235ae6f178d4.png" />&nbsp;&nbsp;
+<img align="left" alt="Serverless" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251406-fea25380-bbc3-11eb-8b4d-842a84c52c55.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureSynapseAnalytics" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119251407-ff3aea00-bbc3-11eb-8dc0-6c385ec2a982.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureDataFactory" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253878-ce14e680-bbd0-11eb-9294-f904a97cd223.png" />&nbsp;&nbsp;
+<img align="left" alt="DatabaseMigrationServices" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253879-cf461380-bbd0-11eb-892e-f256fdf766e5.png" />&nbsp;&nbsp;
+<img align="left" alt="DataCatalog" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253880-cfdeaa00-bbd0-11eb-8e43-c33f618e3236.png" />&nbsp;&nbsp;
+<img align="left" alt="DataShares" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253882-d0774080-bbd0-11eb-8120-4a182580d85a.png" />&nbsp;&nbsp;
+<img align="left" alt="CostManagement" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253883-d10fd700-bbd0-11eb-990e-0e6f5cb7690d.png" />&nbsp;&nbsp;
+<img align="left" alt="AutomationAccounts" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253884-d2410400-bbd0-11eb-89b7-8a86cc8c74b3.png" />&nbsp;&nbsp;
+<img align="left" alt="Powershell" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253885-d2d99a80-bbd0-11eb-85c9-ff65fc714bfc.png" />&nbsp;&nbsp;
 <br>
-<img align="left" alt="Spark" width="26px" src="https://user-images.githubusercontent.com/65807570/119253866-c6edd880-bbd0-11eb-9a3d-a5a845598de8.png" />&nbsp;&nbsp;
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/65807570/119253870-c8b79c00-bbd0-11eb-8e8b-2bded36c9b49.png" />&nbsp;&nbsp;
-<img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/65807570/119253871-c9503280-bbd0-11eb-9832-4846082cd307.png" />&nbsp;&nbsp;
-<img align="left" alt="git" width="26px" src="https://user-images.githubusercontent.com/65807570/119253872-c9e8c900-bbd0-11eb-9d0a-79ec048cb490.png" />&nbsp;&nbsp;
-<img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/65807570/119253873-cb19f600-bbd0-11eb-8c4a-ac5fd1ccd627.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureDevOps" width="26px" src="https://user-images.githubusercontent.com/65807570/119253874-cbb28c80-bbd0-11eb-8a7a-e4338b84d4a5.png" />&nbsp;&nbsp;
-<img align="left" alt="Databricks" width="26px" src="https://user-images.githubusercontent.com/65807570/119253876-cc4b2300-bbd0-11eb-9f7b-51140d774347.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureLogicApps" width="26px" src="https://user-images.githubusercontent.com/65807570/119253877-cd7c5000-bbd0-11eb-8314-3c8612503645.png" />&nbsp;&nbsp;
-<img align="left" alt="CognitiveServices" width="26px" src="https://user-images.githubusercontent.com/65807570/119254708-7e84e980-bbd5-11eb-8dff-6c6f20e9fa3e.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureML" width="26px" src="https://user-images.githubusercontent.com/65807570/119254709-7f1d8000-bbd5-11eb-98c4-c7a8ffaa2664.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureSearch" width="26px" src="https://user-images.githubusercontent.com/65807570/119254711-7fb61680-bbd5-11eb-9144-bb6f795bcb90.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureSecurityCenter" width="26px" src="https://user-images.githubusercontent.com/65807570/119254712-804ead00-bbd5-11eb-8d64-f25e8dfc823f.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureStreamAnalytics" width="26px" src="https://user-images.githubusercontent.com/65807570/119254713-80e74380-bbd5-11eb-849a-e0475317418d.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureUserSubscriptions" width="26px" src="https://user-images.githubusercontent.com/65807570/119254715-817fda00-bbd5-11eb-931b-4b48abbf0ee9.png" />&nbsp;&nbsp;
+<img align="left" alt="Python" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253870-c8b79c00-bbd0-11eb-8e8b-2bded36c9b49.png" />&nbsp;&nbsp;
+<img align="left" alt="PowerBI" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253871-c9503280-bbd0-11eb-9832-4846082cd307.png" />&nbsp;&nbsp;
+<img align="left" alt="git" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253872-c9e8c900-bbd0-11eb-9d0a-79ec048cb490.png" />&nbsp;&nbsp;
+<img align="left" alt="github" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253873-cb19f600-bbd0-11eb-8c4a-ac5fd1ccd627.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureDevOps" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253874-cbb28c80-bbd0-11eb-8a7a-e4338b84d4a5.png" />&nbsp;&nbsp;
+<img align="left" alt="Databricks" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253876-cc4b2300-bbd0-11eb-9f7b-51140d774347.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureLogicApps" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119253877-cd7c5000-bbd0-11eb-8314-3c8612503645.png" />&nbsp;&nbsp;
+<img align="left" alt="CognitiveServices" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254708-7e84e980-bbd5-11eb-8dff-6c6f20e9fa3e.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureML" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254709-7f1d8000-bbd5-11eb-98c4-c7a8ffaa2664.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureSearch" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254711-7fb61680-bbd5-11eb-9144-bb6f795bcb90.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureSecurityCenter" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254712-804ead00-bbd5-11eb-8d64-f25e8dfc823f.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureStreamAnalytics" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254713-80e74380-bbd5-11eb-849a-e0475317418d.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureUserSubscriptions" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254715-817fda00-bbd5-11eb-931b-4b48abbf0ee9.png" />&nbsp;&nbsp;
+<img align="left" alt="vscode" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254716-817fda00-bbd5-11eb-9fe7-081dd45c862c.png" />&nbsp;&nbsp;
 <br>
-<img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/65807570/119254716-817fda00-bbd5-11eb-9fe7-081dd45c862c.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureDevopsPipelines" width="26px" src="https://user-images.githubusercontent.com/65807570/119254701-7b89f900-bbd5-11eb-84b7-8d3833e10dc6.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureDevopsArtifacts" width="26px" src="https://user-images.githubusercontent.com/65807570/119254703-7cbb2600-bbd5-11eb-88d7-3647d0be8f61.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureDevopsRepos" width="26px" src="https://user-images.githubusercontent.com/65807570/119254704-7cbb2600-bbd5-11eb-803f-0c19211359c5.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureKeyVaults" width="26px" src="https://user-images.githubusercontent.com/65807570/119254705-7d53bc80-bbd5-11eb-907b-b1a0b76e6609.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureStorageAccounts" width="26px" src="https://user-images.githubusercontent.com/65807570/119254706-7dec5300-bbd5-11eb-80dd-aa3c2e700e05.png" />&nbsp;&nbsp;
-<img align="left" alt="AzureStorageExplorer" width="26px" src="https://user-images.githubusercontent.com/65807570/119254707-7e84e980-bbd5-11eb-9f34-c7c7d215d598.png" />&nbsp;&nbsp;
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />&nbsp;&nbsp;
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
+<img align="left" alt="AzureDevopsPipelines" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254701-7b89f900-bbd5-11eb-84b7-8d3833e10dc6.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureDevopsArtifacts" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254703-7cbb2600-bbd5-11eb-88d7-3647d0be8f61.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureDevopsRepos" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254704-7cbb2600-bbd5-11eb-803f-0c19211359c5.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureKeyVaults" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254705-7d53bc80-bbd5-11eb-907b-b1a0b76e6609.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureStorageAccounts" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254706-7dec5300-bbd5-11eb-80dd-aa3c2e700e05.png" />&nbsp;&nbsp;
+<img align="left" alt="AzureStorageExplorer" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119254707-7e84e980-bbd5-11eb-9f34-c7c7d215d598.png" />&nbsp;&nbsp;
+<img align="left" alt="PySpark" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256319-c90a6400-bbdd-11eb-9c6e-295db8bdfb06.png" />&nbsp;&nbsp;
+<img align="left" alt="Scala" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256320-c9a2fa80-bbdd-11eb-8c4f-f099045e3c72.jpeg" />&nbsp;&nbsp;
+<img align="left" alt="Pandas" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256318-c871cd80-bbdd-11eb-9cad-5966ecb8d948.png" />&nbsp;&nbsp;
+<img align="left" alt="Numpy" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256315-c740a080-bbdd-11eb-99e7-a922dfd8bd36.png" />&nbsp;&nbsp;
+<img align="left" alt="Snowflake" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256321-ca3b9100-bbdd-11eb-9887-4ed2608de359.jpg" />&nbsp;&nbsp;
+<img align="left" alt="MicrosoftOffice" height="28" width="28" src="https://user-images.githubusercontent.com/65807570/119256322-ca3b9100-bbdd-11eb-9de0-fe3c5d00eab9.png" />&nbsp;&nbsp;
+<img align="left" alt="Wordpress" height="28" width="28" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />&nbsp;&nbsp;
+<img align="left" alt="AWS" height="28" width="28" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
+<br>
+<img align="left" alt="Spark" height="30" width="30" src="https://user-images.githubusercontent.com/65807570/119253866-c6edd880-bbd0-11eb-9a3d-a5a845598de8.png" />&nbsp;&nbsp;
 
 
 <br />
