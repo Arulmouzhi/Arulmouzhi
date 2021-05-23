@@ -44,6 +44,7 @@
 <img align="left" alt="CostManagement" width="26px" src="https://user-images.githubusercontent.com/65807570/119253883-d10fd700-bbd0-11eb-990e-0e6f5cb7690d.png" />&nbsp;&nbsp;
 <img align="left" alt="AutomationAccounts" width="26px" src="https://user-images.githubusercontent.com/65807570/119253884-d2410400-bbd0-11eb-89b7-8a86cc8c74b3.png" />&nbsp;&nbsp;
 <img align="left" alt="Powershell" width="26px" src="https://user-images.githubusercontent.com/65807570/119253885-d2d99a80-bbd0-11eb-85c9-ff65fc714bfc.png" />&nbsp;&nbsp;
+<br>
 <img align="left" alt="Spark" width="26px" src="https://user-images.githubusercontent.com/65807570/119253866-c6edd880-bbd0-11eb-9a3d-a5a845598de8.png" />&nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/65807570/119253870-c8b79c00-bbd0-11eb-8e8b-2bded36c9b49.png" />&nbsp;&nbsp;
 <img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/65807570/119253871-c9503280-bbd0-11eb-9832-4846082cd307.png" />&nbsp;&nbsp;
@@ -58,6 +59,7 @@
 <img align="left" alt="AzureSecurityCenter" width="26px" src="https://user-images.githubusercontent.com/65807570/119254712-804ead00-bbd5-11eb-8d64-f25e8dfc823f.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureStreamAnalytics" width="26px" src="https://user-images.githubusercontent.com/65807570/119254713-80e74380-bbd5-11eb-849a-e0475317418d.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureUserSubscriptions" width="26px" src="https://user-images.githubusercontent.com/65807570/119254715-817fda00-bbd5-11eb-931b-4b48abbf0ee9.png" />&nbsp;&nbsp;
+<br>
 <img align="left" alt="vscode" width="26px" src="https://user-images.githubusercontent.com/65807570/119254716-817fda00-bbd5-11eb-9fe7-081dd45c862c.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureDevopsPipelines" width="26px" src="https://user-images.githubusercontent.com/65807570/119254701-7b89f900-bbd5-11eb-84b7-8d3833e10dc6.png" />&nbsp;&nbsp;
 <img align="left" alt="AzureDevopsArtifacts" width="26px" src="https://user-images.githubusercontent.com/65807570/119254703-7cbb2600-bbd5-11eb-88d7-3647d0be8f61.png" />&nbsp;&nbsp;
